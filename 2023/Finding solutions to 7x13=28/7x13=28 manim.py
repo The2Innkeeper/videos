@@ -1,3 +1,7 @@
+"""
+# I challenge you to clean up this code, good luck. xD
+"""
+
 from manim import *
 
 class Conditions(Scene):
